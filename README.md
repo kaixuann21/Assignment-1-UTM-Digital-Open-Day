@@ -1,13 +1,13 @@
 # UTM Digital Open Day Video Vlog (Group 7)
 
+This is a group assignment for UTM Digital Open Day Video Vlog.
+
 ## Course Details
 - **Course Name:** Technology and Information System
 - **Course Code:** SECP1513
 - **Academic Session:** 2025/2026
 
-This is a group assignment for UTM Digital Open Day Video Vlog.
-
-🎥 Video Link:
+## Video Link
 https://youtu.be/9JvaVglRQaI?si=jPXBv5ryFbWD87TR
 
 ## Contents

@@ -1,8 +1,9 @@
-# UTM Digital Open Day Video Vlog (Group 7)
+# UTM Digital Open Day Video Vlog 
 
 This is a group assignment for UTM Digital Open Day Video Vlog.
 
 **Course:** Technology and Information System (SECP1513)
+**Group:** 7
 
 
 ## Video Link
